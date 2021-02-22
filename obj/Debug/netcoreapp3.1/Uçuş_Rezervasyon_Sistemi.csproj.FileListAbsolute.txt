@@ -1,0 +1,16 @@
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\bin\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.exe
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\bin\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.deps.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\bin\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.runtimeconfig.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\bin\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.runtimeconfig.dev.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\bin\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\bin\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.csprojAssemblyReference.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.Form1.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.AssemblyInfoInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.AssemblyInfo.cs
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Uçuş_Rezervasyon_Sistemi\Uçuş_Rezervasyon_Sistemi\obj\Debug\netcoreapp3.1\Uçuş_Rezervasyon_Sistemi.genruntimeconfig.cache

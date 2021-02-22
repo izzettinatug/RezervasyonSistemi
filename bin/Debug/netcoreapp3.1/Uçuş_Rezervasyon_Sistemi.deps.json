@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Uçuş_Rezervasyon_Sistemi/1.0.0": {
+        "runtime": {
+          "Uçuş_Rezervasyon_Sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uçuş_Rezervasyon_Sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
